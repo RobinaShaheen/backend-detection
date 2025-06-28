@@ -2,10 +2,11 @@ Flask
 flask-cors
 opencv-python
 numpy
-easyocr
+# easyocr
 python-dotenv
 psycopg2
-supervision
-roboflow
-inference
+# supervision
+# roboflow
+# inference
 requests
+pytesseract
