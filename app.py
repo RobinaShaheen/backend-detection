@@ -4,7 +4,6 @@ import cv2
 import time
 import logging
 import easyocr
-import pytesseract
 import psycopg2
 import numpy as np
 from dotenv import load_dotenv
