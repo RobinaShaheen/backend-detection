@@ -1,2 +1,5 @@
 [phases.setup]
-nixPkgs = ["tesseract"]
+nixPkgs = ["python311", "tesseract"]
+
+[start]
+cmd = "gunicorn app:app"
